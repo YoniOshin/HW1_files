@@ -1,5 +1,12 @@
 public class State {
+    public boolean isGoal(){// Checks if board is solved
+    }
+    public String[] actions(){// Checks valid moves
 
+    }
+    public Board result(Action action ){
+
+    }
     @Override
     public boolean equals(Object other) {
         if (!(other instanceof State)) {

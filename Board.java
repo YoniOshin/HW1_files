@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Board {
-
+// ToDo add boardBuilder
     @Override
     public boolean equals(Object other) {
         if (!(other instanceof Board)) {
